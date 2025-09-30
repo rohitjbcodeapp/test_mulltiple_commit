@@ -1,3 +1,5 @@
 # test_mulltiple_commit
 
-![image](/assets/data/blogimages/image.png)
+
+![Web Development Trends Image](https://github.com/rohitjbcodeapp/test_mulltiple_commit/raw/feature-branch/assets/data/blogimages/image.png)
+
